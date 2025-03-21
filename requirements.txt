@@ -12,9 +12,7 @@ jmespath==1.0.1
 packaging==24.2
 pathspec==0.10.1
 psycopg2-binary==2.9.10
-pypiwin32==223
 python-dateutil==2.9.0.post0
-# pywin32==310
 PyYAML==6.0.2
 requests==2.32.3
 semantic-version==2.10.0
@@ -25,7 +23,3 @@ termcolor==2.5.0
 tzdata==2025.1
 urllib3==1.26.20
 wcwidth==0.2.13
-
-
-
-
